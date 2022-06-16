@@ -1,0 +1,31 @@
+Los productos repetidos en un nuevo ticket no se cobraron nuevamente a la tarjeta (sólo refleja compras anteriores)
+___________________________________________
+    ID   | Producto          |  Costo ($) |
+_________|___________________|____________|
+         |                   |            |
+ BF001   | Boleto Auto       |  350       |
+_________|___________________|____________|
+         |                   |            |
+ FS002   | Hot Dog           |  40        |
+_________|___________________|____________|
+         |                   |            |
+ FS001   | Refresco Grande   |  45        |
+_________|___________________|____________|
+Total: $435
+Los productos repetidos en un nuevo ticket no se cobraron nuevamente a la tarjeta (sólo refleja compras anteriores)
+___________________________________________
+    ID   | Producto          |  Costo ($) |
+_________|___________________|____________|
+         |                   |            |
+ BF001   | Boleto Auto       |  350       |
+_________|___________________|____________|
+         |                   |            |
+ FS002   | Hot Dog           |  40        |
+_________|___________________|____________|
+         |                   |            |
+ FS001   | Refresco Grande   |  45        |
+_________|___________________|____________|
+         |                   |            |
+ FS010   | Chocolates        |  34        |
+_________|___________________|____________|
+Total: $469
